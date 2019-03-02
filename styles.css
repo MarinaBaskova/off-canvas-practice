@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400,700");
 
 * {
   box-sizing: border-box;
@@ -18,7 +18,7 @@ body {
   width: 260px;
   left: -260px;
   height: 100%;
-  background: #27292F;
+  background: #27292f;
   z-index: 9999;
 }
 .open {
@@ -56,7 +56,7 @@ body {
   width: 36px;
   border-radius: 2px;
   position: relative;
-  transition: 0.3s;
+  transition: 0.5s;
 }
 .change.first-bar {
   top: 11px;
